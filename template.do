@@ -1,4 +1,5 @@
 * WORKING DIRECTORY
+//editing this file
 // use -pwd- and -cd- to access the project-level folder
 
 cd XXXX/XXXX/		testchange		testchange2
