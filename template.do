@@ -1,7 +1,7 @@
 * WORKING DIRECTORY
 // use -pwd- and -cd- to access the project-level folder
 
-cd XXXX/XXXX/		testchange		
+cd XXXX/XXXX/		testchange		testchange2
 
 * LOG START
 
